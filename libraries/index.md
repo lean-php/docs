@@ -17,7 +17,7 @@ PHP Standards Recommendations of the PHP FIG (Framework Interoperability Group)
   
 * **PSR-6	Caching Interface**
 
-  . [Packagist Providers](https://packagist.org/providers/psr/cache-implementation)
+  - [Packagist Providers](https://packagist.org/providers/psr/cache-implementation)
   
 * **PSR-7	HTTP Message Interface**
 
@@ -57,8 +57,15 @@ PHP Standards Recommendations of the PHP FIG (Framework Interoperability Group)
   
 * **Router**
 
+  - [Fastroute](https://github.com/nikic/FastRoute)
+  - [PHP League Wrapper for Fastroute](http://route.thephpleague.com/)
+  - [Aura Router](http://auraphp.com/packages/3.x/Router/)
+  - [Zend Router](https://docs.zendframework.com/zend-router/)
+  
 * **Event System/Bus**
 
+  - [PHP League Event](http://event.thephpleague.com/2.0/)
+  
 * **Template Engine**
 
   - [Smarty](https://www.smarty.net/)

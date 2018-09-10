@@ -26,8 +26,8 @@ in der ````php.ini```-Datei aktivieren (Dateinamen natürlich anpassen oder Date
 ### Variante B (Zeroconf)
 
 1. Bookmarklet oder Browser-Extension installieren (https://confluence.jetbrains.com/display/PhpStorm/Browser+Debugging+Extensions).
-Die Bookmarklets funktionieren natürlich auch in den anderen Browsern. Alternativ kann man einfach an die URL den 
-Querystring ```?XDEBUG_SESSION_START=PHPSTORM``` anhängen
+Die Bookmarklets funktionieren natürlich auch in den anderen Browsern. Alternativ kann man einfach an die URL 
+den Querystring ```?XDEBUG_SESSION_START=PHPSTORM``` anhängen
 
 2. In PhpStorm auf den Telefonhörer clicken, Seite im Browser anfordern und voilá.
 
@@ -38,9 +38,9 @@ Start der Debug-Session der in PhpStorm gewählte Session-Name im Request "ersch
 
 ## Links
 
-* [Homepage)(https://xdebug.org/)
+* [Homepage](https://xdebug.org/)
 * [How to use](https://deliciousbrains.com/xdebug-advanced-php-debugging/)
-* [Sitepoint Article)[https://www.sitepoint.com/getting-know-love-xdebug/)
+* [Sitepoint Article](https://www.sitepoint.com/getting-know-love-xdebug/)
 * [Profiling](https://xdebug.org/docs/profiler)
 * [Code Coverage](https://derickrethans.nl/code-coverage.html)
 

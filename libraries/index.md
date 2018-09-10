@@ -77,3 +77,16 @@ PHP Standards Recommendations of the PHP FIG (Framework Interoperability Group)
   - [Volt](https://docs.phalconphp.com/en/3.3/volt)
   
 * **DB Abstraction Layer**
+
+  - [Doctrine DBAL](https://www.doctrine-project.org/projects/dbal.html)
+  - [Aura SQL - reine DB-Abstraktion, Query Builder und Schema Introspektion in seperaten Paketen](http://auraphp.com/)
+  - [Atlas PDO - reine DB-Abstraktion, weitere Pakete vorhanden](http://atlasphp.io/)
+  - [Zend DB - enthält aber auch ORM Aspekte](https://docs.zendframework.com/zend-db/)
+  
+* **ORM - Object Relational Mapper**
+
+  - [Doctrine ORM - Entity Manager](https://www.doctrine-project.org/projects/orm.html)
+  - [Zend DB - Table Data Gateway, Row Data Gateway](https://docs.zendframework.com/zend-db/)
+  - [Propel ORM - Active Record](http://propelorm.org/)
+  - [Atlas ORM - Data Mapper](http://atlasphp.io/)
+  - [Illuminate/Database aus dem Laravel Framework ](https://github.com/illuminate/database)

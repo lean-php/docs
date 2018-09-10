@@ -38,7 +38,6 @@ Start der Debug-Session der in PhpStorm gewählte Session-Name im Request "ersch
 
 ## Links
 
-* [Homepage](https://xdebug.org/)
 * [How to use](https://deliciousbrains.com/xdebug-advanced-php-debugging/)
 * [Sitepoint Article](https://www.sitepoint.com/getting-know-love-xdebug/)
 * [Profiling](https://xdebug.org/docs/profiler)

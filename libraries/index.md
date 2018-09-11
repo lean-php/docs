@@ -31,7 +31,7 @@ PHP Standards Recommendations of the PHP FIG (Framework Interoperability Group)
   - [Packagist Providers](https://packagist.org/providers/psr/container-implementation)
   - [Symfony DI](https://packagist.org/packages/symfony/dependency-injection)
   - [Zend ServiceManager](https://packagist.org/packages/zendframework/zend-servicemanager)
-  - [PHP League Container](https://packagist.org/packages/zendframework/zend-servicemanager)
+  - [PHP League Container](https://container.thephpleague.com/)
   - [PHP DI](https://packagist.org/packages/php-di/php-di)
   - [Pimple](https://packagist.org/packages/pimple/pimple)
   
